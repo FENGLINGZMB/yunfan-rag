@@ -1,0 +1,6 @@
+[postgres]
+host = "43.135.156.166"
+port = 5469
+user = "root"
+password = "F04oEHogKr4uoaQU9xZA"
+dbname = "yunfan"
